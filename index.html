@@ -158,7 +158,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://fireantzhang.github.io/2019/05/11/你知道-adb-的无线方式开发模式吗？让你摆脱-USB-线的束缚/" data-id="cjvjusvzc00022s67f8e5yv33" class="article-share-link">Share</a>
+      <a data-url="http://fireantzhang.github.io/2019/05/11/你知道-adb-的无线方式开发模式吗？让你摆脱-USB-线的束缚/" data-id="cjvjvq1ya0002qy67h94rpm6s" class="article-share-link">Share</a>
       
     </footer>
 
@@ -216,7 +216,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://fireantzhang.github.io/2019/05/11/hello-world/" data-id="cjvjusvyx00002s67ehmbwobs" class="article-share-link">Share</a>
+      <a data-url="http://fireantzhang.github.io/2019/05/11/hello-world/" data-id="cjvjvq1y50000qy675chza44o" class="article-share-link">Share</a>
       
     </footer>
 
@@ -236,6 +236,26 @@
   
 </section>
 </div>
+
+  <div class="gitalk" id="gitalk-container"></div>
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      clientID: '5f6508af1b76d78a5d58',
+      clientSecret: '50d853e5fdc09852499b84dc26b52c193612df00',
+      repo: 'fireantzhang.github.io',
+      owner: 'fireantzhang',
+      admin: ['fireantzhang'],
+//      id: location.pathname,      // Ensure uniqueness and length less than 50
+      id: md5(location.pathname),
+      distractionFreeMode: false,  // Facebook-like distraction free mode
+      pagerDirection: 'last'
+    })
+
+  gitalk.render('gitalk-container')
+  </script>
 
   <footer class="footer">
   
