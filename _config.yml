@@ -83,6 +83,9 @@ search:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repo: git@github.com:fireantzhang/fireantzhang.github.io.git
+  branch: master
+- type: git
+  repo: git@git.dev.tencent.com:fireant/fireant.coding.me.git
   branch: master
