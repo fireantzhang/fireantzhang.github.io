@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://fireantzhang.github.io/"/>
+  <link href="https://www.fireantzhang.com/"/>
   <updated>2019-05-11T18:22:30.013Z</updated>
-  <id>http://fireantzhang.github.io/</id>
+  <id>https://www.fireantzhang.com/</id>
   
   <author>
     <name>火蚁</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>你知道 adb 的无线方式开发模式吗？让你摆脱 USB 线的束缚</title>
-    <link href="http://fireantzhang.github.io/2019/05/11/%E4%BD%A0%E7%9F%A5%E9%81%93-adb-%E7%9A%84%E6%97%A0%E7%BA%BF%E6%96%B9%E5%BC%8F%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%90%97%EF%BC%9F%E8%AE%A9%E4%BD%A0%E6%91%86%E8%84%B1-USB-%E7%BA%BF%E7%9A%84%E6%9D%9F%E7%BC%9A/"/>
-    <id>http://fireantzhang.github.io/2019/05/11/你知道-adb-的无线方式开发模式吗？让你摆脱-USB-线的束缚/</id>
+    <link href="https://www.fireantzhang.com/2019/05/11/%E4%BD%A0%E7%9F%A5%E9%81%93-adb-%E7%9A%84%E6%97%A0%E7%BA%BF%E6%96%B9%E5%BC%8F%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%90%97%EF%BC%9F%E8%AE%A9%E4%BD%A0%E6%91%86%E8%84%B1-USB-%E7%BA%BF%E7%9A%84%E6%9D%9F%E7%BC%9A/"/>
+    <id>https://www.fireantzhang.com/2019/05/11/你知道-adb-的无线方式开发模式吗？让你摆脱-USB-线的束缚/</id>
     <published>2019-05-11T09:37:06.000Z</published>
     <updated>2019-05-11T18:22:30.013Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://fireantzhang.github.io/2019/05/11/hello-world/"/>
-    <id>http://fireantzhang.github.io/2019/05/11/hello-world/</id>
+    <link href="https://www.fireantzhang.com/2019/05/11/hello-world/"/>
+    <id>https://www.fireantzhang.com/2019/05/11/hello-world/</id>
     <published>2019-05-11T09:18:54.553Z</published>
     <updated>2019-05-11T17:49:26.830Z</updated>
     
